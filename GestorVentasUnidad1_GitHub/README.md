@@ -152,8 +152,3 @@ Una prueba básica puede realizarse así:
 6. Verificar que el stock pase de `10` a `8`.
 7. Consultar el reporte de caja.
 
-## GitHub
-
-Este proyecto está preparado para ser publicado en un repositorio público de GitHub.
-
-No se deben subir las carpetas `bin/` ni `obj/`, ya que están excluidas mediante `.gitignore`.
